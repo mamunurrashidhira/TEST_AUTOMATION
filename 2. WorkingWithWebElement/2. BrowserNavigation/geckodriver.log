@@ -1,0 +1,55 @@
+1670405908518	geckodriver	INFO	Listening on 127.0.0.1:60872
+1670405911579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60873" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAMUNU~1\\AppData\\Local\\Temp\\rust_mozprofile9hEksd"
+1670405911851	Marionette	INFO	Marionette enabled
+1670405911854	Marionette	INFO	Listening on port 60882
+Read port: 60882
+WebDriver BiDi listening on ws://127.0.0.1:60873
+1670405911962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAMUNU~1\\AppData\\Local\\Temp\\rust_mozprofile9hEksd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60873/devtools/browser/18d5eb7f-0bbe-4c02-a5eb-f67899fefb38
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1670405924002	Marionette	INFO	Stopped listening on port 60882
+1670405939222	geckodriver	INFO	Listening on 127.0.0.1:61001
+1670405942303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61002" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAMUNU~1\\AppData\\Local\\Temp\\rust_mozprofileZlRSY6"
+1670405942584	Marionette	INFO	Marionette enabled
+1670405942587	Marionette	INFO	Listening on port 61011
+Read port: 61011
+WebDriver BiDi listening on ws://127.0.0.1:61002
+1670405942679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAMUNU~1\\AppData\\Local\\Temp\\rust_mozprofileZlRSY6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61002/devtools/browser/1d105d2b-fb5f-41e0-a9fa-2a3173e1c8a3
+1670405952268	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670405952527	Marionette	INFO	Stopped listening on port 61011
+1670406029581	geckodriver	INFO	Listening on 127.0.0.1:61134
+1670406032664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61135" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAMUNU~1\\AppData\\Local\\Temp\\rust_mozprofileXMGPJu"
+1670406032957	Marionette	INFO	Marionette enabled
+1670406032962	Marionette	INFO	Listening on port 61145
+Read port: 61145
+WebDriver BiDi listening on ws://127.0.0.1:61135
+1670406033058	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAMUNU~1\\AppData\\Local\\Temp\\rust_mozprofileXMGPJu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61135/devtools/browser/7ed1e492-838f-4e81-b305-6316f9e782e9
+JavaScript warning: https://pagead2.googlesyndication.com/bg/A0RlYSVNidyzuuj9s3x_gihat09geBiINDRnkKmgVjk.js line 2 > eval line 5741 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1670406055077	Marionette	INFO	Stopped listening on port 61145
+1670406116351	geckodriver	INFO	Listening on 127.0.0.1:61315
+1670406119460	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61316" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAMUNU~1\\AppData\\Local\\Temp\\rust_mozprofileMabmmm"
+1670406119752	Marionette	INFO	Marionette enabled
+1670406119755	Marionette	INFO	Listening on port 61325
+Read port: 61325
+WebDriver BiDi listening on ws://127.0.0.1:61316
+1670406119846	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAMUNU~1\\AppData\\Local\\Temp\\rust_mozprofileMabmmm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61316/devtools/browser/f74974d4-2799-406f-9066-4d5819d59ae1
+JavaScript error: https://static.files.bbci.co.uk/orbit/644077edc7f09faed9dd44fb4c1fae48/js/require.min.js, line 101: Error: Script error for "domReady"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/644077edc7f09faed9dd44fb4c1fae48/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/644077edc7f09faed9dd44fb4c1fae48/js/require.min.js, line 101: Error: Script error for "idcta-v2/idcta-1"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://static.files.bbci.co.uk/orbit/644077edc7f09faed9dd44fb4c1fae48/js/require.min.js, line 101: Error: Script error for "compiled"
+http://requirejs.org/docs/errors.html#scripterror
+1670406135655	Marionette	INFO	Stopped listening on port 61325
