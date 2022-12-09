@@ -113,3 +113,24 @@ WebDriver BiDi listening on ws://127.0.0.1:60778
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAMUNU~1\\AppData\\Local\\Temp\\rust_mozprofile6ptC41\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:60778/devtools/browser/716447bf-376b-4078-9c65-46a5ab11f67d
 1670405189999	Marionette	INFO	Stopped listening on port 60787
+1670524838629	geckodriver	INFO	Listening on 127.0.0.1:63539
+1670524841702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63540" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAMUNU~1\\AppData\\Local\\Temp\\rust_mozprofilecRv7bq"
+1670524841984	Marionette	INFO	Marionette enabled
+1670524841987	Marionette	INFO	Listening on port 63549
+Read port: 63549
+WebDriver BiDi listening on ws://127.0.0.1:63540
+1670524842082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAMUNU~1\\AppData\\Local\\Temp\\rust_mozprofilecRv7bq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63540/devtools/browser/c59a0603-20d3-4d01-982a-4d2072126ea3
+1670524846419	Marionette	INFO	Stopped listening on port 63549
+1670524985482	geckodriver	INFO	Listening on 127.0.0.1:63588
+1670524988545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63589" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAMUNU~1\\AppData\\Local\\Temp\\rust_mozprofileJ7I5wB"
+1670524988818	Marionette	INFO	Marionette enabled
+1670524988822	Marionette	INFO	Listening on port 63598
+Read port: 63598
+WebDriver BiDi listening on ws://127.0.0.1:63589
+1670524988912	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAMUNU~1\\AppData\\Local\\Temp\\rust_mozprofileJ7I5wB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63589/devtools/browser/7ad5d7e9-1db3-4083-827f-808b1ab9fafa
+1670524996100	Marionette	INFO	Stopped listening on port 63598
+[Parent 800, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167

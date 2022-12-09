@@ -19,7 +19,7 @@ class Locator():
                                                  "@class='orangehrm-login-layout-blob']//form["
                                                  "@action='/web/index.php/auth/validate']/div[1]/div//input["
                                                  "@name='username']")
-        
+
         if username is not None:
             print('Username found Successfully')
         else:
